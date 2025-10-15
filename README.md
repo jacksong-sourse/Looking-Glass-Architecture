@@ -14,3 +14,7 @@ Revolutionary web security through physical inversion: UI logic on secured serve
 ## 作者
 宋梓铭 - 14岁的创新者
 创建时间: 2025-10-15
+
+## 声明
+本文档采用知识共享 署名-非商业性使用 4.0 国际许可协议（CC BY-NC 4.0）进行许可。
+
